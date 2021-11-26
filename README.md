@@ -18,11 +18,11 @@
 
 <br />
 <br />
-
+<p align="center">
 ### Listening right now at Spotify 📻🌋 
 [![Spotify](https://novatoremspotify.vercel.app/api/spotify)](https://open.spotify.com/user/62kovatryu4zznxoh01ooapvw)
 
-
+ </p>
 <br />
 
 ### Languages and Tools:
