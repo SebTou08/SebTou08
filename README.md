@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on: [Ilanguage][course]!
 - 🌱 I’m currently learning Jetpack Compose 
-- 🥅 2022 Goals: Specialize in .Net
+- 🥅 2023 Goals: Specialize in React
 - ⚡ Fun fact: I love Pizza without pineapple🍕😜
 
 ### Connect with me:
